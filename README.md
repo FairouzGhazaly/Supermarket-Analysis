@@ -64,4 +64,4 @@ By leveraging only **Excel**, this project proves how effective spreadsheet tool
 ---
 
 **Dashboard Preview:**
-![Supermarket Sales Dashboard](ce16fc0c-948e-4183-acc6-648e83a632c5.png)
+![Supermarket Sales Dashboard](https://github.com/FairouzGhazaly/Supermarket-Analysis/blob/main/Screenshot%202025-09-29%20173341.png)
