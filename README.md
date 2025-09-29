@@ -16,7 +16,7 @@ Through this process, the project demonstrates the power of Excel as both a data
 
 #### Dataset Details
 
-The dataset used is the [**Supermarket Sales Dataset**](supermarket_sales -.csv)
+The dataset used is the [**Supermarket Sales Dataset**](https://github.com/FairouzGhazaly/Supermarket-Analysis/blob/main/supermarket_sales%20-.csv)
 
 * **Size:** 1,000 transactional records
 * **Fields:** Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment method, COGS, Gross Margin %, Gross Income, and Rating
